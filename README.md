@@ -12,6 +12,16 @@ I stället är det avtalat att projektet bara inlämnas med repo och en kopia av
 
 MySQL databasen finns i mappen "mysqldb" och importeras till din MySQL databas på localhost.
 
-Resurser: https://keystonejs.com/ och https://github.com/keystonejs/keystone .
+Resurser
+Bootstrap 5: https://github.com/twbs/examples
+https://keystonejs.com/ 
+https://github.com/keystonejs/keystone 
 
-Fronteend för projektet är baserad på KeystoneJS frontend template från: https://github.com/keystonejs/keystone-frontend-example
+Frontend för projektet är baserad på KeystoneJS frontend template från: https://github.com/keystonejs/keystone-frontend-example
+
+Utbildningsmaterial
+LIL Bootstrap Essential training: https://www.linkedin.com/learning/bootstrap-5-essential-training/
+Keystone: https://www.youtube.com/watch?v=3cH1BXJbfa4&t=19s
+Node.js and MySQL:https://www.youtube.com/watch?v=EN6Dx22cPRI&t=251s
+LIL Parcel: 
+
