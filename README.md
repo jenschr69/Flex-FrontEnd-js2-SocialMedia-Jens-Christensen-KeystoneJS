@@ -10,7 +10,7 @@ försökt publicerat på eget webhotell hos Oderland genom cPanel som et Node.js
 lyckades att göra detta då kompetens för detta inte finns på skolan. 
 I stället är det avtalat att projektet bara inlämnas med repo och en kopia av MySQL databasen i detta inlämningsrepo.
 
-MySQL databasen finns i mappen "mysqldb".
+MySQL databasen finns i mappen "mysqldb" och importeras till din MySQL databas på localhost.
 
 Resurser: https://keystonejs.com/ och https://github.com/keystonejs/keystone .
 
