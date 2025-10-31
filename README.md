@@ -25,3 +25,4 @@ Keystone: https://www.youtube.com/watch?v=3cH1BXJbfa4&t=19s
 Node.js and MySQL:https://www.youtube.com/watch?v=EN6Dx22cPRI&t=251s
 LIL Parcel: 
 
+Kör projektet på localhost med: "npx keystone dev" - Avbryta med ctrl+c
