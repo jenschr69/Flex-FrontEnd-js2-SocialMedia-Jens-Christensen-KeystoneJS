@@ -20,8 +20,12 @@ const lists = {
 
 export default config({
   db: {
-    provider: 'sqlite',
-    url: 'file:./keystone.db',
+    provider: 'mysql',
+    url: 'mysql://dbuser:dbpass@localhost:3306/keystone',
+    onConnect: async context => { /* ... */ },
+    // Optional advanced configuration
+    enableLogging: true,
+    idField: { kind: 'uuid' },
   },
   lists,
 });
